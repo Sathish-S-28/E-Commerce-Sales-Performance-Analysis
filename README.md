@@ -42,13 +42,13 @@ This project focuses on understanding customer behavior, product performance, pr
 
 ## 📊 Dashboard Preview
 
-![Customer](images/Customer_Behaviour.png)
-
-![Delivery](images/Delivery_Review.png)
-
 ![Sales](images/Sales_Performance.png)
 
+![Customer](images/Customer_Behaviour.png)
+
 ![Product](images/Product_Pricing.png)
+
+![Delivery](images/Delivery_Review.png)
 
 ---
 
