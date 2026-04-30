@@ -13,11 +13,12 @@ This project analyzes e-commerce sales data to uncover insights related to custo
 ---
 
 ## 🛠️ Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- SQL
-- Power BI
-- Statistics and Machine Learning
 
+- **Python**: Pandas, NumPy (data cleaning & analysis), Matplotlib, Seaborn (visualization), Scikit-learn (machine learning)
+- **SQL**: Data extraction, JOIN operations, KPI calculations, aggregations
+- **Power BI**: Interactive dashboards, KPI visualization, business insights
+- **Statistics**: Hypothesis testing (T-Test, Z-Test, Chi-Square, ANOVA)
+- **Machine Learning**: Regression, Classification, Clustering models
 ---
 
 ## 📊 Key Insights
