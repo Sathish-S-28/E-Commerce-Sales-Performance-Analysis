@@ -44,11 +44,11 @@ This project focuses on understanding customer behavior, product performance, pr
 
 ![Customer](images/Customer_Behaviour.png)
 
-![Delivery](images/delivery_review.png)
+![Delivery](images/Delivery_Review.png)
 
-![Sales](images/sales_performance.png)
+![Sales](images/Sales_Performance.png)
 
-![Product](images/product_pricing.png)
+![Product](images/Product_Pricing.png)
 
 ---
 
